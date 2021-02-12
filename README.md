@@ -2,7 +2,7 @@
 Worked practice examples towards learning of A/B Testing
 
 
-# coursera_SQL
+# Coursera_SQL
 Assignment for [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting?)
 Code was run on [Mode Analytics](https://mode.com). The final outputs are available [here](https://app.mode.com/courserasqlatharva/reports/99ccd390b9c7). Course completion certification is available.
 
